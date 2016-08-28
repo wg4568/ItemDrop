@@ -1,6 +1,9 @@
 ItemDrop game for TI-84
 =======================
 
+Installation/info
+-----------------
+
 Source code is in source_code.b
 
 File to send to the TI84 is ITEMDROP.8xp
